@@ -1,0 +1,5 @@
+cluster,age,balance,campaign,previous,financial_stress,high_engagement,prev_contacted,days_since_contact,n_customers,pct_of_total,subscription_rate_pct
+0,40.95,1563.79,2.05,3.19,0.76,0.53,1.0,223.89,8222,18.2,23.1
+1,43.21,1683.04,3.0,0.0,0.01,0.47,0.0,998.96,14343,31.7,13.4
+2,40.52,733.75,2.97,0.01,1.62,0.48,0.01,995.61,6151,13.6,6.0
+3,39.11,1217.29,2.83,0.0,1.02,0.51,0.0,999.0,16495,36.5,6.7
